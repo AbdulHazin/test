@@ -7,7 +7,7 @@ public class Account {
 	
 	public Account(double balance) {
 		this.balance = balance;
-	}
+	} // New Comment for balance
 
 	public Account(String name, double balance) {
 		this.name = name;
